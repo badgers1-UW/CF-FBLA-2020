@@ -3,11 +3,11 @@ Mobile App
 <!DOCTYPE html>
 <html>
 <head>
-<title Title</title>
+FBLA Information
 </head>
 <body>
 
-<h1>Heading</h1>
+<h1>About FBLA</h1>
 <p>Paragraph</p>
 
 </body>
